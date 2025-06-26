@@ -1,6 +1,3 @@
-ndex.txt
 This is the second test file.
-ndex.txt
 
-ndex.txt
 The keyword is Durian.
